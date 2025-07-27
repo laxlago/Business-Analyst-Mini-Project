@@ -1,8 +1,6 @@
-# Business-Analyst-Mini-Project
-BRD and JIRA task tracking for a sample employee onboarding system
-# 🧑‍💼 Business Analyst Mini Project – Employee Onboarding System
+# Business Analyst Mini Project – Employee Onboarding System
 
-## 📌 Project Objective
+## Project Objective
 To streamline the employee onboarding process by building a workflow system that automates documentation, IT setup, and training.
 
 ## 📄 Business Requirements Document (BRD)
@@ -11,7 +9,6 @@ Includes:
 - Stakeholder analysis
 - Assumptions and constraints
 
-📎 [View BRD PDF](./BRD_Employee_Onboarding.pdf)
 
 ## 🗂️ JIRA Board
 Created a JIRA Scrum board with:
@@ -19,9 +16,6 @@ Created a JIRA Scrum board with:
 - 4 User Stories linked to BRD requirements
 - Sprint setup and progress tracking
 
-📸 Screenshots:
-- ![JIRA Board](./JIRA_Board_1.png)
-- ![Story FR1](./JIRA_Story_FR1.png)
 
 ## 🛠️ Tools Used
 - Confluence / Google Docs for documentation
